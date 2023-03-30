@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Animes Favoritos</string>
+    <string name="all">TODO</string>
+    <string name="name">Dragon Ball Super</string>
+    <string name="current">7</string>
+    <string name="episode">Episodios: 131</string>
+    <string name="description">El dios de la Destrucción ha despertado, y se está dedicando a aniquilar planetas y acaba de descubrir la Tierra. Cuando lo descubre, el guerrero Goku pide ayuda de sus amigos para convertirse en un legendario Super Saiyajin y poder derrotarlo.</string>
+    <string name="form_title">Nuevo Anime</string>
+    <string name="name_url">Url imagen</string>
+    <string name="name_description">Descripción</string>
+    <string name="name_current">Episodio actual</string>
+    <string name="name_episode">Total episodios</string>
+    <string name="name_name">Nombre</string>
+    <string name="name_user">Nombre de usuario</string>
+    <string name="name_password">Contraseña</string>
+    <string name="title_add">Nuevo Anime</string>
+    <string name="title_edit">Datos del Anime</string>
+    <string name="title_login">Inicio de sesión</string>
+    <string name="save">Guardar</string>
+    <string name="login">Entrar</string>
+    <string name="forgot_password">¿Olvidó su contraseña?</string>
+    <string name="register">Registrarse</string>
+    <string name="title_register">Registro de usuario</string>
+    <string name="name_email">Correo Electrónico</string>
+    <string name="name_phone">Teléfono</string>
+    <string name="name_confirm">Confirmar contraseña</string>
+    <string name="change">Cambiar</string>
+    <string name="restore">Restablecer</string>
+    <string name="title_restore">Restablecer contraseña</string>
+    <string name="title_new">Nueva contraseña</string>
+    <string name="name_newpassword">Nueva contraseña</string>
+    <string name="name_newconfirm">Confirmar nueva contraseña</string>
+</resources>
