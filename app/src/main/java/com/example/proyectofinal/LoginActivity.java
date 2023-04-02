@@ -61,8 +61,8 @@ public class LoginActivity extends AppCompatActivity {
         // we are passing key value as EMAIL_KEY and
         // default value is
         // set to null if not present.
-        username = sharedpreferences.getString("USERNAME_KEY", null);
-        password = sharedpreferences.getString("PASSWORD_KEY", null);
+        username = sharedpreferences.getString("username_key", null);
+        password = sharedpreferences.getString("password_key", null);
 
         // calling on click listener for login button.
         loginBtn.setOnClickListener(new View.OnClickListener() {
