@@ -91,6 +91,7 @@ public class EditActivity extends AppCompatActivity {
                 Intent intent=new Intent(this, MainActivity.class);
                 intent.putExtra("user", user);
                 startActivity(intent);
+                finish();
             }
         });
 

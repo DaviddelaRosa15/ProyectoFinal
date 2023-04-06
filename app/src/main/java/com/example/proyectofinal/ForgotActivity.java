@@ -74,6 +74,7 @@ public class ForgotActivity extends AppCompatActivity {
                         Intent intent = new Intent(ForgotActivity.this, RestoreActivity.class);
                         intent.putExtra("user", found.getId());
                         startActivity(intent);
+                        finish();
                     }
                 }
             }
